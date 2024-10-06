@@ -19,9 +19,9 @@ Briefly summarize the regex you will be describing and what you will explain. In
 
 ## Regex Components
 
-### Anchors
+### Anchors:
 
-The caret (**^**) and dollar sign (**$**) are anchors used to specify the start and end of the string being matched.
+The caret **^** and dollar sign **$** are anchors used to specify the start and end of the string being matched.
 
 •	**^**: Ensures that the string starts with the specified pattern.
 
@@ -29,20 +29,22 @@ The caret (**^**) and dollar sign (**$**) are anchors used to specify the start 
 
 Together, these anchors ensure that the entire string must match the regex from start to finish.
 
-### Quantifiers
+### Quantifiers:
 
-### Grouping Constructs
+### Grouping Constructs:
 
-### Bracket Expressions
+### Bracket Expressions:
 
-### Character Classes
+### Character Classes:
 
-### The OR Operator
+### The OR Operator:
 
-### Flags
+### Flags:
 
-### Character Escapes
+### Character Escapes:
 
-## Author
+## Author:
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile
+A short section about the author with a link to the author's GitHub profile 
+
+[My GitHub](https://github.com/Voobane)
