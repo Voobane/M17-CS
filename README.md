@@ -95,4 +95,4 @@ The escape character **`\`** is used to escape special characters so they can be
 
 Hello, My name is Matt and I am current taking a Bootcamp and stufdying fot be a Fullstack Developer. 
 
- [Click Here To Visit GitHub](https://github.com/Voobane)
+ [Click Here To Visit GitHub Profile](https://github.com/Voobane)
